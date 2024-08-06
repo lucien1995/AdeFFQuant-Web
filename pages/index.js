@@ -12,25 +12,37 @@ import Services1 from "@/components/sections/Services1"
 import Slider1 from "@/components/sections/Slider1"
 import Testimonial1 from "@/components/sections/Testimonial1"
 import Whychoose1 from "@/components/sections/Whychoose1"
-export default function Home() {
-
-    return (
-        <>
-            <Layout headerStyle={1} footerStyle={1}>
-                <Slider1 />
-                <Services1 />
-                <About1 addClass={"pt-0"} />
-                <Marquee1 />
-                <Cta />
-                <Faqs />
-                <Whychoose1 />
-                <Testimonial1 />
-                <Projects1 />
-                <Funfact />
-                <News1 />
-                <Contact1 />
-                <Clients1 />
-            </Layout>
-        </>
-    )
+export async function getServerSideProps(context) {
+  return {
+    redirect: {
+      destination: '/index-2',
+      permanent: false,
+    },
+  };
 }
+
+export default function Home() {
+  return null; // 这个组件可以返回null，因为它会被重定向
+}
+// export default function Home() {
+//
+//     return (
+//         <>
+//             <Layout headerStyle={1} footerStyle={1}>
+//                 <Slider1 />
+//                 <Services1 />
+//                 <About1 addClass={"pt-0"} />
+//                 <Marquee1 />
+//                 <Cta />
+//                 <Faqs />
+//                 <Whychoose1 />
+//                 <Testimonial1 />
+//                 <Projects1 />
+//                 <Funfact />
+//                 <News1 />
+//                 <Contact1 />
+//                 <Clients1 />
+//             </Layout>
+//         </>
+//     )
+// }
