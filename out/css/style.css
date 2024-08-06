@@ -3694,7 +3694,7 @@ Section Title
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
-  background-image: url('/AdeFFQuant-Web/public/images/main-slider/shape.png');
+  background-image: url('/public/images/main-slider/shape.png');
   content: "";
 }
 .banner-section .content-box {
