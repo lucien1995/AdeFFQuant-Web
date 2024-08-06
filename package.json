@@ -1,21 +1,23 @@
 {
-  "name": "desix-next",
+  "name": "adeffquantweb",
   "version": "0.1.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "next build",
+    "build": "next build && next export -o out",
     "start": "next start",
     "lint": "next lint",
     "sass": "sass --watch public/scss/style.scss:public/css/style.css"
   },
   "dependencies": {
-    "next": "^14.1.3",
-    "react": "^18.2.0",
+    "next": "^14.2.5",
+    "react": "^18.3.1",
     "react-countup": "^6.5.0",
-    "react-dom": "^18.2.0",
+    "react-dom": "^18.3.1",
     "react-scroll-trigger": "^0.6.14",
     "sass": "^1.70.0",
     "swiper": "^11.0.6"
-  }
+  },
+  "type": "module"
 }
+

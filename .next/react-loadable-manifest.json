@@ -1,23 +1,23 @@
 {
-  "..\\components\\sections\\About2.js -> @/components/elements/CounterUp": {
-    "id": 6339,
+  "components\\sections\\About2.js -> @/components/elements/CounterUp": {
+    "id": 3938,
     "files": [
-      "static/chunks/798.9ceec54dff7dabba.js",
-      "static/chunks/339.abacde09396fed98.js"
+      "static/chunks/798.70503b60c19bda69.js",
+      "static/chunks/938.5f1dfa52edbf9946.js"
     ]
   },
-  "..\\components\\sections\\Funfact.js -> @/components/elements/CounterUp": {
-    "id": 6339,
+  "components\\sections\\Funfact.js -> @/components/elements/CounterUp": {
+    "id": 3938,
     "files": [
-      "static/chunks/798.9ceec54dff7dabba.js",
-      "static/chunks/339.abacde09396fed98.js"
+      "static/chunks/798.70503b60c19bda69.js",
+      "static/chunks/938.5f1dfa52edbf9946.js"
     ]
   },
-  "..\\components\\sections\\inner\\TeamDetails.js -> @/components/elements/CounterUp": {
-    "id": 6339,
+  "components\\sections\\inner\\TeamDetails.js -> @/components/elements/CounterUp": {
+    "id": 3938,
     "files": [
-      "static/chunks/798.9ceec54dff7dabba.js",
-      "static/chunks/339.abacde09396fed98.js"
+      "static/chunks/798.70503b60c19bda69.js",
+      "static/chunks/938.5f1dfa52edbf9946.js"
     ]
   }
 }
