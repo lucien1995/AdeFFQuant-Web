@@ -10,19 +10,19 @@ export default function Footer1() {
                     <div className="auto-container">
                         <div className="row">
                             {/* Contact info Block */}
-                            <div className="contact-info-block col-lg-4 col-md-6">
-                                <div className="inner">
-                                    <i className="icon fa fa-phone-square" />
-                                    <span className="sub-title">Call Anytime</span>
-                                    <div className="text"><Link href="/index-2">+61 123 123 123</Link></div>
-                                </div>
-                            </div>
+                            {/*<div className="contact-info-block col-lg-4 col-md-6">*/}
+                            {/*    <div className="inner">*/}
+                            {/*        <i className="icon fa fa-phone-square" />*/}
+                            {/*        <span className="sub-title">Call Anytime</span>*/}
+                            {/*        <div className="text"><Link href="/index-2">+61 123 123 123</Link></div>*/}
+                            {/*    </div>*/}
+                            {/*</div>*/}
                             {/* Contact info Block */}
                             <div className="contact-info-block col-lg-4 col-md-6">
                                 <div className="inner">
                                     <i className="icon fa fa-envelope" />
                                     <span className="sub-title">Send Email</span>
-                                    <div className="text"><Link href="/index-2">needhelp@FFQuant.com</Link></div>
+                                    <div className="text"><Link href="/mailto:adffq@outlook.com.au">adeffquant@outlook.com.au</Link></div>
                                 </div>
                             </div>
                             {/* Contact info Block */}
@@ -46,12 +46,12 @@ export default function Footer1() {
                                     <div className="widget-content">
                                         <div className="logo"><Link href="/index-2"> <img src="/images/logo.png" alt="" /></Link></div>
                                         <div className="text">Welcome to FF Quant <br /> Dedicated to AI integration and APP development</div>
-                                        <ul className="social-icon-two">
-                                            <li><Link href="/index-2"><i className="fab fa-twitter" /></Link></li>
-                                            <li><Link href="/index-2"><i className="fab fa-facebook" /></Link></li>
-                                            <li><Link href="/index-2"><i className="fab fa-pinterest" /></Link></li>
-                                            <li><Link href="/index-2"><i className="fab fa-instagram" /></Link></li>
-                                        </ul>
+                                        {/*<ul className="social-icon-two">*/}
+                                        {/*    <li><Link href="/index-2"><i className="fab fa-twitter" /></Link></li>*/}
+                                        {/*    <li><Link href="/index-2"><i className="fab fa-facebook" /></Link></li>*/}
+                                        {/*    <li><Link href="/index-2"><i className="fab fa-pinterest" /></Link></li>*/}
+                                        {/*    <li><Link href="/index-2"><i className="fab fa-instagram" /></Link></li>*/}
+                                        {/*</ul>*/}
                                     </div>
                                 </div>
                             </div>

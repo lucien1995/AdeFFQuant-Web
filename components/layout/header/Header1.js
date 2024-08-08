@@ -12,7 +12,7 @@ export default function Header1({ scroll, isMobileMenu, handleMobileMenu, isSear
                         <div className="top-left">
                             {/* Info List */}
                             <ul className="list-style-one">
-                                <li><i className="fa fa-envelope" /> <Link href="/mailto:needhelp@company.com">needhelp@FFQuant.com</Link></li>
+                                <li><i className="fa fa-envelope" /> <Link href="/mailto:adffq@outlook.com.au">adeffquant@outlook.com.au</Link></li>
                                 <li><i className="fa fa-map-marker" /> Level 3 169 Fullarton Rd DULWICH SA 5065</li>
                             </ul>
                         </div>
@@ -22,12 +22,12 @@ export default function Header1({ scroll, isMobileMenu, handleMobileMenu, isSear
                                 <li><Link href="/#">Support</Link></li>
                                 <li><Link href="/#">Contact</Link></li>
                             </ul>
-                            <ul className="social-icon-one">
-                                <li><Link href="/#"><span className="fab fa-twitter" /></Link></li>
-                                <li><Link href="/#"><span className="fab fa-facebook-square" /></Link></li>
-                                <li><Link href="/#"><span className="fab fa-pinterest-p" /></Link></li>
-                                <li><Link href="/#"><span className="fab fa-instagram" /></Link></li>
-                            </ul>
+                            {/*<ul className="social-icon-one">*/}
+                            {/*    <li><Link href="/#"><span className="fab fa-twitter" /></Link></li>*/}
+                            {/*    <li><Link href="/#"><span className="fab fa-facebook-square" /></Link></li>*/}
+                            {/*    <li><Link href="/#"><span className="fab fa-pinterest-p" /></Link></li>*/}
+                            {/*    <li><Link href="/#"><span className="fab fa-instagram" /></Link></li>*/}
+                            {/*</ul>*/}
                         </div>
                     </div>
                 </div>

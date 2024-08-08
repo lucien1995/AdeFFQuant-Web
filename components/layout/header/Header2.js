@@ -12,7 +12,7 @@ export default function Header2({ scroll, isSearch, handleSearch, isMobileMenu, 
                         <div className="top-left">
                             {/* Info List */}
                             <ul className="list-style-one">
-                                <li><i className="fa fa-envelope" /> <Link href="/mailto:needhelp@company.com">needhelp@FFQuant.au</Link></li>
+                                <li><i className="fa fa-envelope" /> <Link href="/mailto:adffq@outlook.com.au">adeffquant@outlook.com.au</Link></li>
                                 <li><i className="fa fa-map-marker" /> Level 3 169 Fullarton Rd DULWICH SA 5065</li>
                             </ul>
                         </div>
@@ -22,12 +22,12 @@ export default function Header2({ scroll, isSearch, handleSearch, isMobileMenu, 
                                 <li><Link href="/page-contact">Support</Link></li>
                                 <li><Link href="/page-contact">Contact</Link></li>
                             </ul>
-                            <ul className="social-icon-one">
-                                <li><Link href="/index-2"><span className="fab fa-twitter" /></Link></li>
-                                <li><Link href="/index-2"><span className="fab fa-facebook-square" /></Link></li>
-                                <li><Link href="/index-2"><span className="fab fa-pinterest-p" /></Link></li>
-                                <li><Link href="/index-2"><span className="fab fa-instagram" /></Link></li>
-                            </ul>
+                            {/*<ul className="social-icon-one">*/}
+                            {/*    <li><Link href="/index-2"><span className="fab fa-twitter" /></Link></li>*/}
+                            {/*    <li><Link href="/index-2"><span className="fab fa-facebook-square" /></Link></li>*/}
+                            {/*    <li><Link href="/index-2"><span className="fab fa-pinterest-p" /></Link></li>*/}
+                            {/*    <li><Link href="/index-2"><span className="fab fa-instagram" /></Link></li>*/}
+                            {/*</ul>*/}
                         </div>
                     </div>
                 </div>
@@ -50,11 +50,11 @@ export default function Header2({ scroll, isSearch, handleSearch, isMobileMenu, 
                             {/*<button className="ui-btn ui-btn search-btn" onClick={handleSearch}>*/}
                             {/*    <span className="icon lnr lnr-icon-search" />*/}
                             {/*</button>*/}
-                            <Link href="/index-2" className="info-btn">
-                                <i className="icon lnr-icon-phone-handset" />
-                                <small>Call Anytime</small>
-                                +92 (8800) - 9850
-                            </Link>
+                            {/*<Link href="/index-2" className="info-btn">*/}
+                            {/*    <i className="icon lnr-icon-phone-handset" />*/}
+                            {/*    <small>Call Anytime</small>*/}
+                            {/*    +92 (8800) - 9850*/}
+                            {/*</Link>*/}
                             {/* Mobile Nav toggler */}
                             <div className="mobile-nav-toggler" onClick={handleMobileMenu}><span className="icon lnr-icon-bars" /></div>
                         </div>
