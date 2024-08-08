@@ -58,6 +58,21 @@ export default function Services2() {
                                 </div>
                             </div>
                         </div>
+                        {/* Service Block Two */}
+                        <div className="service-block-two col-lg-4 col-md-6 coll-md-12 wow fadeInUp">
+                            <div className="inner-box">
+                                <div className="image-box">
+                                    <figure className="image"><img src="/images/resource/service-11.jpg" alt="" /></figure>
+                                </div>
+                                <div className="title-box">
+                                    <h5 className="title">Digital  <br />Marketing </h5>      {/*<h5 className="title"><Link href="page-service-details">AI  <br />Integration</Link></h5>*/}
+                                </div>
+                                <div className="content-box">
+                                    <i className="icon flaticon-targeted-marketing" />
+                                    <div className="text">Boosting online visibility and engagement with effective digital marketing.</div>
+                                </div>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </section>
