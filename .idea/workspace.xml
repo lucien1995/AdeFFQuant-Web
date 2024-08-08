@@ -5,16 +5,36 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="793bd792-afb3-415e-ab66-45f54c2691af" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/files.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/css/fontawesome.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/fontawesome.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/css/style-rtl.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/style-rtl.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/BUILD_ID" beforeDir="false" afterPath="$PROJECT_DIR$/.next/BUILD_ID" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/build-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/.next/build-manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/next-minimal-server.js.nft.json" beforeDir="false" afterPath="$PROJECT_DIR$/.next/next-minimal-server.js.nft.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/next-server.js.nft.json" beforeDir="false" afterPath="$PROJECT_DIR$/.next/next-server.js.nft.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/prerender-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/.next/prerender-manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/trace" beforeDir="false" afterPath="$PROJECT_DIR$/.next/trace" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/out/404.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/_next/static/YDgatSdb5Q-EIbr8UzEmt/_buildManifest.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/_next/static/YDgatSdb5Q-EIbr8UzEmt/_ssgManifest.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/_next/static/css/c8fd958057f52170.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/_next/static/media/flaticon_agency.5261a766.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/_next/static/media/flaticon_agency.98758a8e.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/_next/static/media/flaticon_agency.abed42ff.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/_next/static/media/flaticon_agency.b4741a51.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/_next/static/media/flaticon_agency.fd5f74af.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/css/flaticon.css" beforeDir="false" afterPath="$PROJECT_DIR$/out/css/flaticon.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/index-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/out/index-2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/out/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/news-details.html" beforeDir="false" afterPath="$PROJECT_DIR$/out/news-details.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/news-grid.html" beforeDir="false" afterPath="$PROJECT_DIR$/out/news-grid.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/page-about.html" beforeDir="false" afterPath="$PROJECT_DIR$/out/page-about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/page-contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/out/page-contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/page-project-details.html" beforeDir="false" afterPath="$PROJECT_DIR$/out/page-project-details.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/page-projects.html" beforeDir="false" afterPath="$PROJECT_DIR$/out/page-projects.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/page-service-details.html" beforeDir="false" afterPath="$PROJECT_DIR$/out/page-service-details.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/page-services.html" beforeDir="false" afterPath="$PROJECT_DIR$/out/page-services.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/page-team-details.html" beforeDir="false" afterPath="$PROJECT_DIR$/out/page-team-details.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/page-team.html" beforeDir="false" afterPath="$PROJECT_DIR$/out/page-team.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/css/flaticon.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/flaticon.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,23 +55,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "E:/A Web demo/desix-client-files/files/adeffquant-web",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_interpreter_path": "node",
-    "nodejs_package_manager_path": "npm",
-    "ts.external.directory.path": "D:\\Python\\PyCharm 2023.2.1\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/A Web demo/desix-client-files/files/adeffquant-web&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_interpreter_path&quot;: &quot;node&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;D:\\Python\\PyCharm 2023.2.1\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -62,7 +82,8 @@
       <updated>1722984090689</updated>
       <workItem from="1722984092200" duration="192000" />
       <workItem from="1722984287920" duration="71000" />
-      <workItem from="1722984714566" duration="2549000" />
+      <workItem from="1722984714566" duration="4709000" />
+      <workItem from="1723096365297" duration="1597000" />
     </task>
     <servers />
   </component>
