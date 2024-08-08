@@ -1,18 +1,1 @@
-{
-  "/_app": "pages/_app.js",
-  "/_document": "pages/_document.js",
-  "/news-details": "pages/news-details.js",
-  "/news-grid": "pages/news-grid.js",
-  "/api/hello": "pages/api/hello.js",
-  "/page-about": "pages/page-about.js",
-  "/page-contact": "pages/page-contact.js",
-  "/page-project-details": "pages/page-project-details.js",
-  "/_error": "pages/_error.js",
-  "/page-projects": "pages/page-projects.js",
-  "/page-services": "pages/page-services.js",
-  "/page-service-details": "pages/page-service-details.js",
-  "/page-team-details": "pages/page-team-details.js",
-  "/page-team": "pages/page-team.js",
-  "/index-2": "pages/index-2.js",
-  "/": "pages/index.js"
-}
+{"/_app":"pages/_app.js","/_document":"pages/_document.js","/news-details":"pages/news-details.html","/news-grid":"pages/news-grid.html","/api/hello":"pages/api/hello.js","/page-about":"pages/page-about.html","/page-contact":"pages/page-contact.html","/page-project-details":"pages/page-project-details.html","/_error":"pages/_error.js","/page-projects":"pages/page-projects.html","/page-services":"pages/page-services.html","/page-service-details":"pages/page-service-details.html","/page-team-details":"pages/page-team-details.html","/page-team":"pages/page-team.html","/index-2":"pages/index-2.html","/":"pages/index.html","/404":"pages/404.html"}
