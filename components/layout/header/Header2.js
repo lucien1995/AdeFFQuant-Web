@@ -73,18 +73,18 @@ export default function Header2({ scroll, isSearch, handleSearch, isMobileMenu, 
                         <ul className="contact-list-one">
                             <li>
                                 {/* Contact Info Box */}
-                                <div className="contact-info-box">
-                                    <i className="icon lnr-icon-phone-handset" />
-                                    <span className="title">Call Now</span>
-                                    <Link href="/index-2">+92 (8800) - 98670</Link>
-                                </div>
+                                {/*<div className="contact-info-box">*/}
+                                {/*    <i className="icon lnr-icon-phone-handset" />*/}
+                                {/*    <span className="title">Call Now</span>*/}
+                                {/*    <Link href="/index-2">+92 (8800) - 98670</Link>*/}
+                                {/*</div>*/}
                             </li>
                             <li>
                                 {/* Contact Info Box */}
                                 <div className="contact-info-box">
                                     <span className="icon lnr-icon-envelope1" />
                                     <span className="title">Send Email</span>
-                                    <Link href="/index-2">help@FFQuant.au</Link>
+                                    <Link href="/mailto:adffq@outlook.com.au">adeffquant@outlook.com.au</Link>
                                 </div>
                             </li>
                             <li>
