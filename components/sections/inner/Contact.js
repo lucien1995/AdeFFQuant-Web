@@ -71,7 +71,7 @@ export default function Contactpage() {
 								</div>
 								<div className="text">
 									<h6>Write email</h6>
-									<a href="/mailto:adeffquant@outlook.com.au">adeffquant@outlook.com.au</a>
+									<a href="mailto:adeffquant@outlook.com.au">adeffquant@outlook.com.au</a>
 								</div>
 							</li>
 							<li>
