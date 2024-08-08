@@ -12,7 +12,7 @@ export default function Header1({ scroll, isMobileMenu, handleMobileMenu, isSear
                         <div className="top-left">
                             {/* Info List */}
                             <ul className="list-style-one">
-                                <li><i className="fa fa-envelope" /> <Link href="/mailto:adffq@outlook.com.au">adeffquant@outlook.com.au</Link></li>
+                                <li><i className="fa fa-envelope" /> <a href="/mailto:adeffquant@outlook.com.au">adeffquant@outlook.com.au</a></li>
                                 <li><i className="fa fa-map-marker" /> Level 3 169 Fullarton Rd DULWICH SA 5065</li>
                             </ul>
                         </div>

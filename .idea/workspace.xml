@@ -11,16 +11,37 @@
       <change beforePath="$PROJECT_DIR$/.next/next-minimal-server.js.nft.json" beforeDir="false" afterPath="$PROJECT_DIR$/.next/next-minimal-server.js.nft.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.next/next-server.js.nft.json" beforeDir="false" afterPath="$PROJECT_DIR$/.next/next-server.js.nft.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.next/prerender-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/.next/prerender-manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/server/chunks/68.js" beforeDir="false" afterPath="$PROJECT_DIR$/.next/server/chunks/68.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/server/middleware-build-manifest.js" beforeDir="false" afterPath="$PROJECT_DIR$/.next/server/middleware-build-manifest.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/server/pages-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/.next/server/pages-manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/server/pages/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/.next/server/pages/404.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/server/pages/500.html" beforeDir="false" afterPath="$PROJECT_DIR$/.next/server/pages/500.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/server/pages/index-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/.next/server/pages/index-2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/server/pages/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.next/server/pages/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/server/pages/news-details.html" beforeDir="false" afterPath="$PROJECT_DIR$/.next/server/pages/news-details.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/server/pages/news-grid.html" beforeDir="false" afterPath="$PROJECT_DIR$/.next/server/pages/news-grid.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/server/pages/page-about.html" beforeDir="false" afterPath="$PROJECT_DIR$/.next/server/pages/page-about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/server/pages/page-contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/.next/server/pages/page-contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/server/pages/page-project-details.html" beforeDir="false" afterPath="$PROJECT_DIR$/.next/server/pages/page-project-details.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/server/pages/page-projects.html" beforeDir="false" afterPath="$PROJECT_DIR$/.next/server/pages/page-projects.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/server/pages/page-service-details.html" beforeDir="false" afterPath="$PROJECT_DIR$/.next/server/pages/page-service-details.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/server/pages/page-services.html" beforeDir="false" afterPath="$PROJECT_DIR$/.next/server/pages/page-services.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/server/pages/page-team-details.html" beforeDir="false" afterPath="$PROJECT_DIR$/.next/server/pages/page-team-details.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/server/pages/page-team.html" beforeDir="false" afterPath="$PROJECT_DIR$/.next/server/pages/page-team.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/chunks/991-0b77070300e8b88e.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/chunks/pages/page-contact-f219114e7fbdc654.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/f6asZ9zZkTmY1Fl0XvOfz/_buildManifest.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/f6asZ9zZkTmY1Fl0XvOfz/_ssgManifest.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.next/trace" beforeDir="false" afterPath="$PROJECT_DIR$/.next/trace" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/components/layout/footer/Footer1.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/layout/footer/Footer1.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/components/layout/header/Header1.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/layout/header/Header1.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/components/layout/header/Header2.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/layout/header/Header2.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/sections/Team.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/sections/Team.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/sections/inner/Contact.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/sections/inner/Contact.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/out/404.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/_next/static/chunks/697-c844c10c733cefff.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/_next/static/chunks/991-00fd9e4e0be47038.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/_next/static/f8xhys2wKjIZ3EI0OcA1P/_buildManifest.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/_next/static/f8xhys2wKjIZ3EI0OcA1P/_ssgManifest.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/_next/static/chunks/991-0b77070300e8b88e.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/_next/static/chunks/pages/page-contact-f219114e7fbdc654.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/_next/static/f6asZ9zZkTmY1Fl0XvOfz/_buildManifest.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/_next/static/f6asZ9zZkTmY1Fl0XvOfz/_ssgManifest.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/index-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/out/index-2.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/out/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/news-details.html" beforeDir="false" afterPath="$PROJECT_DIR$/out/news-details.html" afterDir="false" />
@@ -81,7 +102,7 @@
       <workItem from="1722984092200" duration="192000" />
       <workItem from="1722984287920" duration="71000" />
       <workItem from="1722984714566" duration="4709000" />
-      <workItem from="1723096365297" duration="6300000" />
+      <workItem from="1723096365297" duration="10114000" />
     </task>
     <servers />
   </component>
