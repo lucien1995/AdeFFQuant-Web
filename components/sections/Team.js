@@ -20,7 +20,7 @@ export default function Team() {
                                     <span className="designation">Director</span>
                                 </div>
                                 <div className="image-box">
-                                    {/*<figure className="image"><Link href="/#"><img src="/images/resource/team-1.jpg" alt="" /></Link></figure>*/}
+                                    {/*<figure className="image"><Link href="/#"><img src="/images/resource/team-2.jpg" alt="" /></Link></figure>*/}
                                     {/*<div className="social-links">*/}
                                     {/*    <Link href="/index-2"><i className="fab fa-twitter" /></Link>*/}
                                     {/*    <Link href="/index-2"><i className="fab fa-facebook-f" /></Link>*/}
@@ -39,7 +39,7 @@ export default function Team() {
                                     <span className="designation">CEO</span>
                                 </div>
                                 <div className="image-box">
-                                    <figure className="image"><Link href="/#"><img src="/images/resource/team-2.jpg" alt="" /></Link></figure>
+                                    <figure className="image">{/*<Link href="/#">*/}<img src="/images/resource/team-1.jpg" alt="" />{/*</Link>*/}</figure>
                                     {/*<div className="social-links">*/}
                                     {/*    <Link href="/#"><i className="fab fa-twitter" /></Link>*/}
                                     {/*    <Link href="/#"><i className="fab fa-facebook-f" /></Link>*/}
@@ -58,7 +58,7 @@ export default function Team() {
                                     <span className="designation">CMO</span>
                                 </div>
                                 <div className="image-box">
-                                    {/*<figure className="image"><Link href="/#"><img src="/images/resource/team-3.jpg" alt="" /></Link></figure>*/}
+                                    {/*<figure className="image">{/*<Link href="/#"><img src="/images/resource/team-3.jpg" alt="" /></Link></figure>*/}
                                     {/*<div className="social-links">*/}
                                     {/*    <Link href="/#"><i className="fab fa-twitter" /></Link>*/}
                                     {/*    <Link href="/#"><i className="fab fa-facebook-f" /></Link>*/}
