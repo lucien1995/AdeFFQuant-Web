@@ -26,17 +26,17 @@ export default function TeamDetails() {
 						<div className="team-details__top-right">
 							<div className="team-details__top-content">
 								<h3 className="team-details__top-name">Feng Fu</h3>
-								<p className="team-details__top-title">CEO</p>
+								<p className="team-details__top-title"> CEO</p>
 								<p className="team-details__top-text-1">I help my clients stand out and they help me grow.</p>
 								<div className="team-details-contact mb-30">
 									<h5 className="mb-0">Email Address</h5>
 									<div className=""><span>adeffquant@outlook.com.au</span></div>
 								</div>
-								<div className="team-details-contact">
+								<div className="team-details-contact mb-30">
 									<h5 className="mb-0">Web Address</h5>
 									<div className=""><span>www.adeffquant.au</span></div>
 								</div>
-								<div className="team-details-contact mb-30">
+								<div className="team-details-contact">
 									<h5 className="mb-0">Work Place</h5>
 									<div className=""><span>Level 3 169 Fullarton Rd DULWICH SA 5065</span></div>
 								</div>
