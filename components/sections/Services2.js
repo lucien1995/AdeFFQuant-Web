@@ -14,7 +14,7 @@ export default function Services2() {
                     </div>
                     <div className="row">
                         {/* Service Block Two */}
-                        <div className="service-block-two col-lg-4 col-md-6 coll-md-12 wow fadeInUp">
+                        <div className="service-block-two col-lg-3 col-md-6 col-md-12 wow fadeInUp">
                             <div className="inner-box">
                                 <div className="image-box">
                                     <figure className="image"><img src="/images/resource/service2-1.jpg" alt="" /></figure>
@@ -29,7 +29,7 @@ export default function Services2() {
                             </div>
                         </div>
                         {/* Service Block Two */}
-                        <div className="service-block-two col-lg-4 col-md-6 coll-md-12 wow fadeInUp">
+                        <div className="service-block-two col-lg-3 col-md-6 col-md-12 wow fadeInUp">
                             <div className="inner-box">
                                 <div className="image-box">
                                     <figure className="image"><img src="/images/resource/service2-2.jpg" alt="" /></figure>
@@ -44,7 +44,7 @@ export default function Services2() {
                             </div>
                         </div>
                         {/* Service Block Two */}
-                        <div className="service-block-two col-lg-4 col-md-6 coll-md-12 wow fadeInUp">
+                        <div className="service-block-two col-lg-3 col-md-6 col-md-12 wow fadeInUp">
                             <div className="inner-box">
                                 <div className="image-box">
                                     <figure className="image"><img src="/images/resource/service2-3.jpg" alt="" /></figure>
@@ -59,7 +59,7 @@ export default function Services2() {
                             </div>
                         </div>
                         {/* Service Block Two */}
-                        <div className="service-block-two col-lg-4 col-md-6 coll-md-12 wow fadeInUp">
+                        <div className="service-block-two col-lg-3 col-md-6 col-md-12 wow fadeInUp">
                             <div className="inner-box">
                                 <div className="image-box">
                                     <figure className="image"><img src="/images/resource/service-11.jpg" alt="" /></figure>

@@ -5250,15 +5250,12 @@ Section Title
   padding: 120px 0 80px;
 
 }
-.services-section-two .row {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-between; /* 均匀分布 */
-}
+/*.services-section-two .row {*/
+/*  display: flex;*/
+/*  flex-wrap: wrap;*/
+/*  justify-content: space-between; !* 均匀分布 *!*/
+/*}*/
 .service-block-two {
-  /*margin-bottom: 30px;*/
-  flex: 0 0 25%; /* 每个块占据22%的宽度 */
-  box-sizing: border-box; /* 确保 padding 和 border 包括在宽度内 */
   margin-bottom: 30px;
 }
 
