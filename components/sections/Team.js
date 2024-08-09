@@ -16,7 +16,7 @@ export default function Team() {
                         <div className="team-block-two col-lg-3 col-md-6 col-sm-12 wow fadeInUp">
                             <div className="inner-box">
                                 <div className="info-box">
-                                    <h4 className="name"><Link href="/page-team-details">Mr. FEI MAI</Link></h4>
+                                    <h4 className="name">Mr. FEI MAI</h4>
                                     <span className="designation">Director</span>
                                 </div>
                                 <div className="image-box">
@@ -54,7 +54,7 @@ export default function Team() {
                         <div className="team-block-two col-lg-3 col-md-6 col-sm-12 wow fadeInUp" data-wow-delay="800ms">
                             <div className="inner-box">
                                 <div className="info-box">
-                                    <h4 className="name"><Link href="/page-team-details">Mrs. DUODUO LI</Link></h4>
+                                    <h4 className="name">Mrs. DUODUO LI</h4>
                                     <span className="designation">CMO</span>
                                 </div>
                                 <div className="image-box">
@@ -72,7 +72,7 @@ export default function Team() {
                         <div className="team-block-two col-lg-3 col-md-6 col-sm-12 wow fadeInUp" data-wow-delay="800ms">
                             <div className="inner-box">
                                 <div className="info-box">
-                                    <h4 className="name"><Link href="/page-team-details">Mr. YUNLONG LYU</Link></h4>
+                                    <h4 className="name">Mr. YUNLONG LYU</h4>
                                     <span className="designation">Soft Engineer</span>
                                 </div>
                                 <div className="image-box">
