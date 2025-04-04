@@ -33,11 +33,15 @@ jobs:
       - name: Build project
         run: npm run build
 
+      - name: Remove _next before upload
+        run: rm -rf ./out/_next
+
       - name: Upload Pages artifact
         uses: actions/upload-artifact@v4
         with:
           name: github-pages
           path: ./out
+
 
   deploy:
     needs: build
