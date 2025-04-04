@@ -39,6 +39,10 @@ jobs:
           rm -rf ./out/scss
           rm -f ./out/fonts/*.scss
 
+      - name: Remove underscore-prefixed CSS
+        run: find ./out -type f -name '_*.css' -delete
+
+
       - name: Show output dir
         run: ls -R out
 
