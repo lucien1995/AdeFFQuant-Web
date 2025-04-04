@@ -37,6 +37,7 @@ jobs:
         run: |
           rm -rf ./out/_next
           rm -rf ./out/scss
+          rm -f ./out/fonts/*.scss
 
       - name: Show output dir
         run: ls -R out
