@@ -1,6 +1,7 @@
+// next.config.js (ESM 写法)
 const isGithubPages = process.env.GITHUB_ACTIONS || false;
 
-module.exports = {
+export default {
   output: 'export',
   basePath: isGithubPages ? '/AdeFFQuant-Web' : '',
   images: {
