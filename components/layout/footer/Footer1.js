@@ -22,7 +22,7 @@ export default function Footer1() {
                                 <div className="inner">
                                     <i className="icon fa fa-envelope" />
                                     <span className="sub-title">Send Email</span>
-                                    <div className="text"><Link href="mailto:adeffquant@outlook.com.au">adeffquant@outlook.com.au</Link></div>
+                                    <div className="text"><Link href="mailto:info@adeffquant.au">info@adeffquant.au</Link></div>
                                 </div>
                             </div>
                             {/* Contact info Block */}

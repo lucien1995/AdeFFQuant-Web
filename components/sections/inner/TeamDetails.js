@@ -30,7 +30,7 @@ export default function TeamDetails() {
 								<p className="team-details__top-text-1">I help my clients stand out and they help me grow.</p>
 								<div className="team-details-contact mb-30">
 									<h5 className="mb-0">Email Address</h5>
-									<div className=""><span>adeffquant@outlook.com.au</span></div>
+									<div className=""><span>feng.fu@adeffquant.au</span></div>
 								</div>
 								<div className="team-details-contact mb-30">
 									<h5 className="mb-0">Web Address</h5>
