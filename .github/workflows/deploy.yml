@@ -36,6 +36,9 @@ jobs:
       - name: Remove _next before upload
         run: rm -rf ./out/_next
 
+      - name: Show output dir
+        run: ls -R out
+
       - name: Upload Pages artifact
         uses: actions/upload-artifact@v4
         with:
