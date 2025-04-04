@@ -34,7 +34,9 @@ jobs:
         run: npm run build
 
       - name: Remove _next before upload
-        run: rm -rf ./out/_next
+        run: |
+          rm -rf ./out/_next
+          rm -rf ./out/scss
 
       - name: Show output dir
         run: ls -R out
