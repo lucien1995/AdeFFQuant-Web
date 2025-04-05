@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="793bd792-afb3-415e-ab66-45f54c2691af" name="Changes" comment="update email &amp; team members&#10;out.">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/sections/Team.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/sections/Team.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/sections/inner/TeamInner.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/sections/inner/TeamInner.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -486,7 +487,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743856944443</updated>
     </task>
-    <option name="localTasksCounter" value="48" />
+    <task id="LOCAL-00048" summary="update email &amp; team members&#10;out.">
+      <option name="closed" value="true" />
+      <created>1743860497916</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1743860497916</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
