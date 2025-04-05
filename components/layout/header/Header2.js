@@ -36,7 +36,7 @@ export default function Header2({ scroll, isSearch, handleSearch, isMobileMenu, 
                     {/* Main box */}
                     <div className="main-box">
                         <div className="logo-box">
-                            <div className="logo"><Link href="/index-2"><img src="/images/logo.png" alt="" title="Tronis" /></Link></div>
+                            <div className="logo"><Link href="/index-2/"><img src="/images/logo.png" alt="" title="Tronis" /></Link></div>
                         </div>
                         {/*Nav Box*/}
                         <div className="nav-outer">
@@ -97,10 +97,10 @@ export default function Header2({ scroll, isSearch, handleSearch, isMobileMenu, 
                             </li>
                         </ul>
                         <ul className="social-links">
-                            <li><Link href="/index-2"><i className="fab fa-twitter" /></Link></li>
-                            <li><Link href="/index-2"><i className="fab fa-facebook-f" /></Link></li>
-                            <li><Link href="/index-2"><i className="fab fa-pinterest" /></Link></li>
-                            <li><Link href="/index-2"><i className="fab fa-instagram" /></Link></li>
+                            <li><Link href="/index-2/"><i className="fab fa-twitter" /></Link></li>
+                            <li><Link href="/index-2/"><i className="fab fa-facebook-f" /></Link></li>
+                            <li><Link href="/index-2/"><i className="fab fa-pinterest" /></Link></li>
+                            <li><Link href="/index-2/"><i className="fab fa-instagram" /></Link></li>
                         </ul>
                     </nav>
                 </div>{/* End Mobile Menu */}
