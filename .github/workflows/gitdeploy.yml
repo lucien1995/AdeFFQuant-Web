@@ -30,13 +30,13 @@ jobs:
         run: npm ci
 
       - name: Build project
-        run: npm run build && npx next export
+        run: npm run build
 
       - name: Show output dir
         run: ls -R out
 
       - name: Upload Pages artifact
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-pages-artifact@v3
         with:
           name: github-pages
           path: ./out
