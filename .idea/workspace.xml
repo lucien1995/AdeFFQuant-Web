@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="793bd792-afb3-415e-ab66-45f54c2691af" name="Changes" comment="update email &amp; team members&#10;out." />
+    <list default="true" id="793bd792-afb3-415e-ab66-45f54c2691af" name="Changes" comment="update email &amp; team members&#10;out.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -107,14 +109,6 @@
       <workItem from="1723096365297" duration="10657000" />
       <workItem from="1723130170872" duration="7811000" />
       <workItem from="1723216056441" duration="6087000" />
-    </task>
-    <task id="LOCAL-00002" summary="update email &amp; team members&#10;out.">
-      <option name="closed" value="true" />
-      <created>1743744756609</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1743744756609</updated>
     </task>
     <task id="LOCAL-00003" summary="update email &amp; team members&#10;out.">
       <option name="closed" value="true" />
@@ -500,7 +494,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743863301839</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="update email &amp; team members&#10;out.">
+      <option name="closed" value="true" />
+      <created>1743863832461</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1743863832461</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

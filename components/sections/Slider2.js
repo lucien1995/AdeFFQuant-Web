@@ -34,7 +34,7 @@ export default function Slider1() {
                 <Swiper {...swiperOptions} className="banner-carousel owl-carousel owl-theme default-navs">
                     {/* Slide Item */}
                     <SwiperSlide className="slide-item">
-                        <div className="bg-image" style={{ backgroundImage: 'url(images/main-slider/1.jpg)' }} />
+                        <div className="bg-image" style={{ backgroundImage: 'url(/images/main-slider/1.jpg)' }} />
                         <div className="auto-container">
                             <div className="content-box">
                                 <h1 className="title animate-1">Shaping the <br />Perfect Solution <br />for your business</h1>
@@ -46,7 +46,7 @@ export default function Slider1() {
                     </SwiperSlide>
                     {/* Slide Item */}
                     <SwiperSlide className="slide-item">
-                        <div className="bg-image" style={{ backgroundImage: 'url(images/main-slider/3.jpg)' }} />
+                        <div className="bg-image" style={{ backgroundImage: 'url(/images/main-slider/3.jpg)' }} />
                         <div className="auto-container">
                             <div className="content-box">
                                 <h1 className="title animate-1">Shaping the <br />Perfect Solution <br />for your business</h1>
