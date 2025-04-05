@@ -31,6 +31,8 @@ jobs:
 
       - name: Build project
         run: npm run build
+        env:
+          GITHUB_ACTIONS: true
 
       - name: Show output dir
         run: ls -R out
