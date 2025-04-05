@@ -33,29 +33,11 @@ jobs:
       - name: Build project
         run: npm run build
 
-      - name: Remove _next before upload
-        run: |
-          rm -rf ./out/_next
-          rm -rf ./out/scss
-          rm -f ./out/fonts/*.scss
-          rm -f ./out/fonts/*.html
-
-      - name: Remove underscore-prefixed CSS
-        run: find ./out -type f -name '_*.css' -delete
-
-      - name: Remove symbolic links and hard links
-        run: |
-          echo "🧹 Finding and removing symbolic links..."
-          find ./out -type l -exec ls -l {} \; -delete
-
-          echo "🧹 Finding and reporting hard links (more than 1 link)..."
-          find ./out -type f -links +1 -exec ls -l {} \;
-
       - name: Show output dir
         run: ls -R out
 
       - name: Upload Pages artifact
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-pages-artifact@v1
         with:
           name: github-pages
           path: ./out
