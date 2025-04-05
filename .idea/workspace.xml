@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="793bd792-afb3-415e-ab66-45f54c2691af" name="Changes" comment="update email &amp; team members&#10;out.">
-      <change beforePath="$PROJECT_DIR$/components/sections/Team.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/sections/Team.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/sections/inner/TeamInner.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/sections/inner/TeamInner.js" afterDir="false" />
-    </list>
+    <list default="true" id="793bd792-afb3-415e-ab66-45f54c2691af" name="Changes" comment="update email &amp; team members&#10;out." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -495,7 +492,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743860497916</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="update email &amp; team members&#10;out.">
+      <option name="closed" value="true" />
+      <created>1743862815806</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1743862815806</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
